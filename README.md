@@ -61,7 +61,7 @@ ROADMAP
         e. Deploy Machine Learning Model as API
         f. Machine Learning Model as Public API Heroku
 
-    10. Deep Learning Basics
+    10. Deep Learning Basics.
     [Projects]
         
 
